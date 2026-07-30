@@ -79,3 +79,15 @@ The script prints JSON containing:
 ```text
 https://github.com/Mindse-Tt/DailyBrief-Codex
 ```
+
+- Standalone skill repository:
+
+```text
+https://github.com/Mindse-Tt/DailyBrief-Codex-Skill
+```
+
+- Tool collection entry:
+
+```text
+https://github.com/Mindse-Tt/xuwei_tools/tree/main/dailybrief-codex
+```
